@@ -1,0 +1,104 @@
+
+/* Madrid theme – outer: infolines, inner: rounded, colors: whale+orchid */
+:root {
+  --bm-structure:        #2D2D85;
+  --bm-structure-dark:   #1A1A5E;
+  --bm-structure-darker: #0D0D3B;
+
+  --bm-block-bg:         #2D2D85;
+  --bm-block-body-bg:    #DDDDE8;
+  --bm-alert-bg:         #A00000;
+  --bm-alert-body-bg:    #F2DEDE;
+  --bm-example-bg:       #006000;
+  --bm-example-body-bg:  #DEF0DE;
+}
+
+/* ── Header bar (infolines) ── */
+.beamer-head-bg {
+  position: fixed;
+  top: 0; left: 0;
+  width: 100%;
+  height: 40px;
+  z-index: 1000;
+  background: linear-gradient(
+    to right,
+    var(--bm-structure-darker) 0%,  var(--bm-structure-darker) 33%,
+    var(--bm-structure-dark)   33%, var(--bm-structure-dark)   66%,
+    var(--bm-structure)        66%, var(--bm-structure)        100%
+  );
+}
+
+.beamer-foot-bg {
+  position: fixed;
+  bottom: 0; left: 0;
+  width: 100%;
+  height: 28px;
+  z-index: 1000;
+  background: linear-gradient(
+    to right,
+    var(--bm-structure-darker) 0%,  var(--bm-structure-darker) 33%,
+    var(--bm-structure-dark)   33%, var(--bm-structure-dark)   66%,
+    var(--bm-structure)        66%, var(--bm-structure)        100%
+  );
+}
+
+/* ── Fallback: pseudo-elements for non-JS scenarios ── */
+.reveal::before {
+  content: "";
+  position: fixed;
+  top: 0; left: 0;
+  width: 100%; height: 40px;
+  background: linear-gradient(
+    to right,
+    var(--bm-structure-darker) 0%,  var(--bm-structure-darker) 33%,
+    var(--bm-structure-dark)   33%, var(--bm-structure-dark)   66%,
+    var(--bm-structure)        66%, var(--bm-structure)        100%
+  );
+  z-index: 1000;
+}
+
+/* ── Footer bar (infolines) ── */
+.reveal::after {
+  content: "";
+  position: fixed;
+  bottom: 0; left: 0;
+  width: 100%; height: 28px;
+  background: linear-gradient(
+    to right,
+    var(--bm-structure-darker) 0%,  var(--bm-structure-darker) 33%,
+    var(--bm-structure-dark)   33%, var(--bm-structure-dark)   66%,
+    var(--bm-structure)        66%, var(--bm-structure)        100%
+  );
+  z-index: 1000;
+}
+
+.reveal h2 {
+  background: var(--bm-structure);
+  color: #fff;
+  padding: 0.2em 0.6em;
+  border-radius: 6px;
+  font-size: 1.15em;
+  margin-bottom: 0.5em;
+}
+
+.reveal h1 {
+  color: #fff;
+  font-size: 1.3em;
+}
+
+.reveal .slides section {
+  padding-top: 56px;
+  padding-bottom: 44px;
+}
+
+.reveal .slide-number {
+  background: var(--bm-structure);
+  color: #fff;
+  bottom: 0; right: 8px;
+  z-index: 1002;
+}
+
+.beamer-title-box {
+  background: var(--bm-structure);
+  border-radius: 8px;
+}
