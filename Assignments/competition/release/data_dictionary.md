@@ -15,6 +15,7 @@ back to a global average for those, you should know that it does and say so.
 | column | type | meaning |
 |---|---|---|
 | `row_id` | integer | identifier for this lot. Carries no information. |
+| `link_url` | text | the lot's own page at the auction house. Crawl it for anything else you want to use: images, the fuller description, dimensions. |
 | `link_text` | text | the lot title as the auction house wrote it. Often contains a subject, a place, and a year. |
 | `artist_info` | text | the artist as the house lists them, usually with life dates in parentheses, for example `Hiroshige (1797 - 1858)`. |
 | `series_info` | text | the print series, where the house named one. Missing for about half the lots. |

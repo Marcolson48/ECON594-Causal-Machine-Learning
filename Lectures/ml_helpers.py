@@ -408,9 +408,14 @@ def fig_iris_architecture():
     for x, y, lab, col in outs:
         box(x, y, lab, col, w=1.9)
 
+    # the two weighted inputs run together first, then the bias is added,
+    # and only then does the value reach the activation
+    JOIN = 1.05
     for (xi, yi, _, ci) in ins:
         for (xh, yh, _) in hid:
-            arrow((xi + 0.8, yi), (xh - 0.62, yh), ci)
+            arrow((xi + 0.8, yi), (xh - 0.62 - JOIN, yh), ci)
+    for (xh, yh, ch) in hid:
+        arrow((xh - 0.62 - JOIN + 0.52, yh), (xh - 0.62, yh), INK)
     for (xh, yh, ch) in hid:
         for (xo, yo, _, _) in outs:
             arrow((xh + 0.6, yh), (xo - 0.98, yo), ch, lw=1.3)
@@ -419,8 +424,11 @@ def fig_iris_architecture():
     ax.text(3.0, 2.55, r"$\times -1.5$", color=MADRID, fontsize=9.5, ha="center")
     ax.text(3.0, 3.15, r"$\times 0.6$", color=ACCENT, fontsize=9.5, ha="center")
     ax.text(3.0, 1.25, r"$\times 0.4$", color=ACCENT, fontsize=9.5, ha="center")
-    ax.text(5.0, 4.85, r"bias $+1.6$", color=MADRID, fontsize=9.5, ha="center")
-    ax.text(5.0, 0.85, r"bias $+0.7$", color=ACCENT, fontsize=9.5, ha="center")
+    for (xh, yh, ch), bias in zip(hid, (r"$+\,1.6$", r"$+\,0.7$")):
+        ax.text(xh - 0.62 - JOIN + 0.26, yh, bias, color=ch, fontsize=10,
+                ha="center", va="center", weight="bold", zorder=7,
+                bbox=dict(boxstyle="round,pad=0.16", facecolor="white",
+                          edgecolor="none"))
     ax.text(7.1, 5.15, "six weights", color=INK, fontsize=9.5, ha="center",
             style="italic")
 
@@ -2046,7 +2054,8 @@ def fig_knn_boundary(k=1, seed=1):
     from sklearn.neighbors import KNeighborsClassifier
     from matplotlib.colors import ListedColormap
     X, y = _knn_data(seed=seed)
-    clf = KNeighborsClassifier(n_neighbors=k).fit(X, y)
+    # n_jobs=1 keeps joblib from probing the CPU topology, which warns on Windows
+    clf = KNeighborsClassifier(n_neighbors=k, n_jobs=1).fit(X, y)
     x0, x1 = X[:, 0], X[:, 1]
     xx, yy = np.meshgrid(
         np.linspace(x0.min() - 0.4, x0.max() + 0.4, 300),
@@ -2078,7 +2087,7 @@ def fig_knn_bias_variance(seed=1):
     ks = [1, 2, 3, 5, 8, 12, 20, 35, 60, 100]
     tr, cv = [], []
     for k in ks:
-        clf = KNeighborsClassifier(n_neighbors=k)
+        clf = KNeighborsClassifier(n_neighbors=k, n_jobs=1)
         clf.fit(X, y)
         tr.append(1 - clf.score(X, y))
         cv.append(1 - cross_val_score(clf, X, y, cv=5).mean())
@@ -2904,9 +2913,13 @@ def fig_one_neuron(step=1, dose_z=0.8):
     ax.add_patch(FancyArrowPatch((6.75, 2.5), (7.95, 2.5),
                                  arrowstyle="-|>", mutation_scale=18,
                                  color=INK, lw=2))
-    ax.text(2.85, 2.78, "$\\times\\ w$", ha="center", fontsize=13, color=INK)
-    ax.text(5.3, 3.85, "$+\\ b$, then squash", ha="center", fontsize=11,
-            color=INK)
+    ax.text(2.45, 2.80, "$\\times\\ w$", ha="center", fontsize=13, color=INK,
+            zorder=6, bbox=dict(boxstyle="round,pad=0.12",
+                                facecolor="white", edgecolor="none"))
+    ax.text(3.42, 2.80, "$+\\ b$", ha="center", fontsize=13, color=INK,
+            zorder=6, bbox=dict(boxstyle="round,pad=0.12",
+                                facecolor="white", edgecolor="none"))
+    ax.text(5.3, 3.85, "squash", ha="center", fontsize=11, color=INK)
 
     if step == 1:
         ax.set_title("Logistic regression drawn as a network: one neuron",
@@ -2914,7 +2927,9 @@ def fig_one_neuron(step=1, dose_z=0.8):
     if step >= 2:
         inset.scatter([z], [p], s=60, color=FITLINE, zorder=5)
         inset.axvline(z, color=FITLINE, lw=1.0, ls=(0, (3, 2)), alpha=0.6)
-        ax.text(2.85, 2.14, "$%.2f$" % b1, ha="center", fontsize=11,
+        ax.text(2.45, 2.14, "$%.2f$" % b1, ha="center", fontsize=11,
+                color=ACCENT)
+        ax.text(3.42, 2.14, "$%+.2f$" % b0, ha="center", fontsize=11,
                 color=ACCENT)
         ax.text(5.3, 1.06, "$z = %.2f x %+.2f = %.2f$" % (b1, b0, z),
                 ha="center", fontsize=11, color=INK)
@@ -2923,7 +2938,7 @@ def fig_one_neuron(step=1, dose_z=0.8):
         ax.set_title("One beetle's dose, traced through the neuron",
                      fontsize=13.5, color=MADRID, weight="bold")
     if step >= 3:
-        ax.text(2.85, 3.35, "ML: weight\nEcon: slope $\\beta_1$", ha="center",
+        ax.text(2.45, 3.35, "ML: weight\nEcon: slope $\\beta_1$", ha="center",
                 fontsize=10, color=MADRID)
         ax.text(5.3, 0.35, "ML: bias + sigmoid activation\n"
                 "Econ: intercept $\\beta_0$ + logistic link", ha="center",
