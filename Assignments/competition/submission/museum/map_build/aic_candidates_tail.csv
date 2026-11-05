@@ -1,0 +1,751 @@
+label,query,id,title,birth,death
+Hasui,Hasui,35220.0,Kawase Hasui,1883.0,1957.0
+Tsunetomi Kitano,Tsunetomi Kitano,26653.0,Kitano Tsunetomi,1880.0,1947.0
+Chokai Santei (Nirakushi),Chokai Santei,,,,
+Shiro Takagi,Shiro Takagi,25428.0,Takagi Shiro,1934.0,
+Shiro Takagi,Shiro Takagi,80863.0,Shirō  Tsujimura,1947.0,
+Shiro Takagi,Shiro Takagi,112324.0,Shiro Fukazawa,1907.0,1978.0
+Shiro Takagi,Shiro Takagi,36657.0,Kasamatsu Shiro,1898.0,1991.0
+Koichi Maeda,Koichi Maeda,104213.0,Maeda Koichi,1936.0,
+Koichi Maeda,Koichi Maeda,35555.0,(do not use),,
+Koichi Maeda,Koichi Maeda,22792.0,Sakamoto Koichi,1932.0,
+Koichi Maeda,Koichi Maeda,35313.0,Yoshimura Koichi,1818.0,1874.0
+Koichi Maeda,Koichi Maeda,78337.0,Maeda Masao,1904.0,1974.0
+Koichi Maeda,Koichi Maeda,116756.0,Maeda Morikazu,,
+Koichi Maeda,Koichi Maeda,14434.0,Utagawa Kunitora,,
+Koichi Maeda,Koichi Maeda,14451.0,Utagawa Kunimaru,1794.0,1829.0
+Tomita Keisen,Tomita Keisen,105983.0,Ikeda Keisen,1863.0,1932.0
+Tomita Keisen,Tomita Keisen,116732.0,Tomita Humio (Fumiyo),,
+Shima Seien,Shima Seien,36649.0,Shima Tamami,1937.0,1999.0
+Shima Seien,Shima Seien,69747.0,Noguchi Shohin,1847.0,1917.0
+Shima Seien,Shima Seien,31767.0,Toyohara Kunichika,1835.0,1900.0
+Seiji Sano,Seiji Sano,116759.0,Kamachi Seiji,,
+Seiji Sano,Seiji Sano,22940.0,Sano di Pietro,1406.0,1481.0
+Seiji Sano,Seiji Sano,108864.0,Seiji Togo Memorial Sompo Japan Museum of Art,,
+Seiji Sano,Seiji Sano,23478.0,Toriyama Sekien,1712.0,1788.0
+Saburosuke Okada,Saburosuke Okada,112644.0,Okada Yoshio,1977.0,
+Saburosuke Okada,Saburosuke Okada,19591.0,Kenzô Okada,1902.0,1982.0
+Saburosuke Okada,Saburosuke Okada,116777.0,Okada Marie,,
+Saburosuke Okada,Saburosuke Okada,36879.0,Tamechika Reizei,1823.0,1864.0
+Hiyoshi Mamoru,Hiyoshi Mamoru,,,,
+Noda Kyuho,Noda Kyuho,112855.0,Noda Kyuho,1879.0,1971.0
+Noda Kyuho,Noda Kyuho,32349.0,Noda Tetsuya,1940.0,
+Nishimura Goun,Nishimura Goun,111306.0,Nishimura Nantei,1775.0,1834.0
+Nishimura Goun,Nishimura Goun,113206.0,Nishimura Shigenobu,,
+Nishimura Goun,Nishimura Goun,36643.0,Nishimura Shigenaga,1697.0,1756.0
+Nishimura Goun,Nishimura Goun,37390.0,Hibino Yohachi,,
+Nishimura Goun,Nishimura Goun,26531.0,Ishikawa Toyonobu,1711.0,1785.0
+Yasushi Ohmoto,Yasushi Ohmoto,,,,
+Iwata Sentaro,Iwata Sentaro,,,,
+Keigetsu Kikuchi,Keigetsu Kikuchi,,,,
+Yamaguchi Sohei,Yamaguchi Sohei,60691.0,Katsuhiro Yamaguchi,1928.0,2018.0
+Yamaguchi Sohei,Yamaguchi Sohei,111086.0,Yamaguchi Ryuun,1940.0,
+Yamaguchi Sohei,Yamaguchi Sohei,113164.0,Bidou Yamaguchi,1970.0,
+Yamaguchi Sohei,Yamaguchi Sohei,25263.0,Yamaguchi Susumu,1897.0,1983.0
+Yamaguchi Sohei,Yamaguchi Sohei,29187.0,Yamaguchi Gen,1896.0,1976.0
+Yamaguchi Sohei,Yamaguchi Sohei,116765.0,Yamaguchi Hirokazu,,
+Yamaguchi Sohei,Yamaguchi Sohei,37373.0,Hisayoshi Yamaguchi (Hanga No Ie),,
+Yamaguchi Sohei,Yamaguchi Sohei,106474.0,Yamaguchi Prefectural Museum of Art,,
+Yamamura Toyonari,Yamamura Toyonari,81691.0,Yamamura Koka,1885.0,1942.0
+Ikkei,Ikkei,,,,
+Kawakami Sumio,Kawakami Sumio,36835.0,Kawakami Sumio,1895.0,1972.0
+Shiro Kasamatsu,Shiro Kasamatsu,36657.0,Kasamatsu Shiro,1898.0,1991.0
+Shiro Kasamatsu,Shiro Kasamatsu,25428.0,Takagi Shiro,1934.0,
+Shiro Kasamatsu,Shiro Kasamatsu,80863.0,Shirō  Tsujimura,1947.0,
+Shiro Kasamatsu,Shiro Kasamatsu,112324.0,Shiro Fukazawa,1907.0,1978.0
+Shinsai,Shinsai,22656.0,Ryuryukyo Shinsai,1764.0,1820.0
+Shinsai,Shinsai,31492.0,Katsushika Hokusai,1760.0,1849.0
+Takahashi Biho,Takahashi Biho,25431.0,Takahashi Shinichi,1917.0,1986.0
+Takahashi Biho,Takahashi Biho,36870.0,Takahashi Rikio,1917.0,1998.0
+Takahashi Biho,Takahashi Biho,34943.0,Takahashi Hiroaki (Shotei),1871.0,1944.0
+Ohara Shoson,Ohara Shoson,6845.0,Donshu Ohara,1857.0,
+Ohara Shoson,Ohara Shoson,36665.0,Ohara Koson,1878.0,1945.0
+Ohara Shoson,Ohara Shoson,107927.0,Ken Ohara,,
+Ichiro (dates unknown),Ichiro,31210.0,Fukushima Ichiro,1920.0,1975.0
+Ichiro (dates unknown),Ichiro,9879.0,Yashima Gakutei,1786.0,1868.0
+Okumura Yukimasa,Okumura Yukimasa,46265.0,Okumura Toshinobu,,
+Okumura Yukimasa,Okumura Yukimasa,61758.0,Okumura Masanobu,1686.0,1764.0
+Noel Nouet,Noel Nouet,22163.0,Noel Rooke,1881.0,1953.0
+Noel Nouet,Noel Nouet,60777.0,Noël Hallé,1711.0,1781.0
+Noel Nouet,Noel Nouet,63444.0,Jules Achille Noël,1815.0,1881.0
+Noel Nouet,Noel Nouet,4911.0,Noël-Thomas-Joseph Clérian,1796.0,1842.0
+Noel Nouet,Noel Nouet,14593.0,Noël-François Roger de La Fresnaye,1885.0,1925.0
+Noel Nouet,Noel Nouet,47136.0,Imitator of Noël-François Roger de La Fresnaye,1885.0,1925.0
+Noel Nouet,Noel Nouet,74953.0,Michiel Natalis,1610.0,1668.0
+Kiyokata Kaburagi,Kiyokata Kaburagi,31670.0,Kaburagi Kiyokata,1878.0,1973.0
+Kamisaka Sekka,Kamisaka Sekka,42579.0,Kamisaka Sekka,1866.0,1942.0
+Daimon Kinoshita,Daimon Kinoshita,35258.0,Kinoshita Tomio,1923.0,
+Daimon Kinoshita,Daimon Kinoshita,63610.0,Oju,1777.0,1815.0
+Azechi Umetaro,Azechi Umetaro,33488.0,Azechi Umetaro,1902.0,
+Goro Kumagai,Goro Kumagai,14431.0,Kumagai Goro,1932.0,2017.0
+Goro Kumagai,Goro Kumagai,114933.0,Fritz Goro,1901.0,1986.0
+Goro Kumagai,Goro Kumagai,41490.0,Gregorio Pagani,1558.0,1605.0
+Aoyama Masaharu Inoue,Aoyama Masaharu Inoue,112851.0,Aoyama Masaharu,1893.0,1969.0
+Aoyama Masaharu Inoue,Aoyama Masaharu Inoue,34971.0,Shunshosai Hokucho,,
+Toshitsune,Toshitsune,,,,
+Hayashi Motoharu,Hayashi Motoharu,,,,
+Yoshiharu,Yoshiharu,114265.0,Utagawa Yoshiharu,1828.0,1888.0
+Koho Shoda,Koho Shoda,119363.0,Koho Shoda,,
+Mitsuhiro Unno,Mitsuhiro Unno,32986.0,Unno Mitsuhiro,1939.0,1979.0
+Kunisato,Kunisato,87505.0,Utagawa Kunisato,,
+Terazaki Kogyo,Terazaki Kogyo,26646.0,Tsukioka Kôgyo,1869.0,1927.0
+Terazaki Kogyo,Terazaki Kogyo,87007.0,Sakamaki Kogyo,,
+Jo (Hashimoto Yuzuru),Jo,1392.0,Jo Baer,1929.0,2025.0
+Jo (Hashimoto Yuzuru),Jo,34149.0,Jo Davidson,1883.0,1952.0
+Jo (Hashimoto Yuzuru),Jo,50604.0,Jo Moses,,
+Jo (Hashimoto Yuzuru),Jo,115408.0,Jo Margolis,1944.0,
+Jo (Hashimoto Yuzuru),Jo,116953.0,Jo Ractliffe,1961.0,
+Jo (Hashimoto Yuzuru),Jo,22120.0,"Joseph ""Jo"" Rollo",1904.0,2001.0
+Jo (Hashimoto Yuzuru),Jo,51011.0,Mary Jo Toles,1951.0,
+Jo (Hashimoto Yuzuru),Jo,116688.0,Mary Jo Slick,,
+Zeshin,Zeshin,37416.0,Shibata Zeshin,1807.0,1891.0
+Kobayashi Kokei,Kobayashi Kokei,26802.0,Ueda Kôkei,,1860.0
+Kobayashi Kokei,Kobayashi Kokei,104170.0,Kobayashi Ikuhide,,
+Kobayashi Kokei,Kobayashi Kokei,110324.0,Keiko Kobayashi,,
+Kobayashi Kokei,Kobayashi Kokei,31738.0,Kobayashi Kiyoko,1947.0,
+Kobayashi Kokei,Kobayashi Kokei,6814.0,Kobayashi Donge,1927.0,
+Kobayashi Kokei,Kobayashi Kokei,35262.0,Kobayashi Kiyochika,1847.0,1915.0
+Kobayashi Kokei,Kobayashi Kokei,116787.0,Kobayashi Keisei,,
+Hokkei,Hokkei,34969.0,Totoya Hokkei,1780.0,1858.0
+Maekawa Senpan,Maekawa Senpan,36605.0,Maekawa Senpan,1888.0,1960.0
+Wada Sanzo,Wada Sanzo,109889.0,Wada Rinshi,,
+Eishi,Eishi,52271.0,Chôbunsai Eishi,1756.0,1829.0
+Funasaki Kojiro,Funasaki Kojiro,58317.0,Oguri Sotan,1413.0,1481.0
+Joshua Rome,Joshua Rome,5588.0,Joshua Cristall,1767.0,1847.0
+Joshua Rome,Joshua Rome,6711.0,Joshua Dighton,1831.0,1908.0
+Joshua Rome,Joshua Rome,47604.0,Joshua Smith,,
+Joshua Rome,Joshua Rome,57815.0,Joshua Shaw,1776.0,1860.0
+Joshua Rome,Joshua Rome,77459.0,Joshua Johnson,,
+Joshua Rome,Joshua Rome,100366.0,Joshua Mosley,1974.0,
+Joshua Rome,Joshua Rome,5248.0,Thomas Joshua Cooper,1946.0,
+Joshua Rome,Joshua Rome,8159.0,Joshua Wilson Faulkner,1770.0,1830.0
+Kaoru Kawano,Kaoru Kawano,13584.0,Kawano Kaoru,1916.0,1965.0
+Kaoru Kawano,Kaoru Kawano,32702.0,Saito Kaoru,1931.0,
+Chikayoshi,Chikayoshi,,,,
+Yoshitomi,Yoshitomi,,,,
+Nakajima Chinami,Nakajima Chinami,21325.0,Nakajima Raishô,1796.0,1871.0
+Nakajima Chinami,Nakajima Chinami,31492.0,Katsushika Hokusai,1760.0,1849.0
+Nansai Toshinori (active Meiji era),Nansai Toshinori,,,,
+Kunihisa II,Kunihisa,35347.0,Utagawa Kunihisa II,1832.0,1891.0
+Mori Masamoto,Mori Masamoto,17707.0,Mori Yoshitoshi,1898.0,1992.0
+Mori Masamoto,Mori Masamoto,17708.0,Mori Yusen,,
+Mori Masamoto,Mori Masamoto,35832.0,Ippo Mori,1789.0,1871.0
+Mori Masamoto,Mori Masamoto,36751.0,Mori Sosen,1747.0,1821.0
+Mori Masamoto,Mori Masamoto,77463.0,Mariko Mori,1967.0,
+Mori Masamoto,Mori Masamoto,113534.0,Mori Shunkei,,
+Mori Masamoto,Mori Masamoto,50586.0,Jacquelyn Ford Morie,,
+Mori Masamoto,Mori Masamoto,115397.0,Mori Art Museum,,
+Yoshikata,Yoshikata,29337.0,Utagawa Yoshikata,,
+Toshimine,Toshimine,,,,
+Kobori Tomoto,Kobori Tomoto,,,,
+Urata Shusha,Urata Shusha,,,,
+Yamaguchi Kayo,Yamaguchi Kayo,60691.0,Katsuhiro Yamaguchi,1928.0,2018.0
+Yamaguchi Kayo,Yamaguchi Kayo,111086.0,Yamaguchi Ryuun,1940.0,
+Yamaguchi Kayo,Yamaguchi Kayo,113164.0,Bidou Yamaguchi,1970.0,
+Yamaguchi Kayo,Yamaguchi Kayo,25263.0,Yamaguchi Susumu,1897.0,1983.0
+Yamaguchi Kayo,Yamaguchi Kayo,29187.0,Yamaguchi Gen,1896.0,1976.0
+Yamaguchi Kayo,Yamaguchi Kayo,116765.0,Yamaguchi Hirokazu,,
+Yamaguchi Kayo,Yamaguchi Kayo,37373.0,Hisayoshi Yamaguchi (Hanga No Ie),,
+Yamaguchi Kayo,Yamaguchi Kayo,106474.0,Yamaguchi Prefectural Museum of Art,,
+Bertha Lum,Bertha Lum,15726.0,Bertha Boynton Lum,1869.0,1954.0
+Bertha Lum,Bertha Lum,36792.0,Bertha Stenge,1891.0,1957.0
+Bertha Lum,Bertha Lum,76709.0,Bertha E. Jaques,1863.0,1941.0
+Bertha Lum,Bertha Lum,45087.0,"Bertha Honoré Palmer, (Mrs. Potter Palmer, I)",1849.0,1918.0
+Kawai Kenji,Kawai Kenji,42908.0,Kawai Kanjirô,1890.0,1966.0
+Kawai Kenji,Kawai Kenji,110858.0,Kusaka Kenji,1936.0,
+Kawai Kenji,Kawai Kenji,26890.0,Ushiku Kenji,1922.0,2012.0
+Kawai Kenji,Kawai Kenji,26891.0,Ushiku Kenji,1922.0,
+Matsunaga Yasuo,Matsunaga Yasuo,13605.0,Yasuo Kazuki,1911.0,1974.0
+Matsunaga Yasuo,Matsunaga Yasuo,35356.0,Yasuo Kuniyoshi,1893.0,1953.0
+Sadanobu,Sadanobu,22731.0,Hasegawa Sadanobu,1809.0,1879.0
+Sadanobu,Sadanobu,13317.0,Kagaku,,
+Tadamasa Ueno,Tadamasa Ueno,116808.0,Ueno Shu,,
+Tadamasa Ueno,Tadamasa Ueno,97077.0,Felice Rix-Ueno,1893.0,1967.0
+Suisho Nishiyama,Suisho Nishiyama,11755.0,Nishiyama Hoen,1804.0,1867.0
+Suzuki Kason,Suzuki Kason,104511.0,Suzuki Rinshô,1732.0,1804.0
+Suzuki Kason,Suzuki Kason,112325.0,Osamu Suzuki,1926.0,2001.0
+Suzuki Kason,Suzuki Kason,115342.0,Yuri Suzuki,1980.0,
+Suzuki Kason,Suzuki Kason,9102.0,Fuyo,1749.0,1816.0
+Suzuki Kason,Suzuki Kason,36845.0,Suzuki Harunobu,1724.0,1770.0
+Suzuki Kason,Suzuki Kason,35252.0,Suzuki Kiitsu,1796.0,1858.0
+Suzuki Kason,Suzuki Kason,37380.0,Kishosai Suzuki Yasunobu,,
+Suzuki Kason,Suzuki Kason,63092.0,Nanrei,1775.0,1844.0
+Togyu Okumura,Togyu Okumura,46265.0,Okumura Toshinobu,,
+Togyu Okumura,Togyu Okumura,61758.0,Okumura Masanobu,1686.0,1764.0
+Hasegawa Seicho,Hasegawa Seicho,58342.0,Hasegawa Sôya,,
+Hasegawa Seicho,Hasegawa Seicho,22731.0,Hasegawa Sadanobu,1809.0,1879.0
+Hasegawa Seicho,Hasegawa Seicho,11092.0,Hasegawa Tojyu,,
+Hasegawa Seicho,Hasegawa Seicho,35796.0,Hasegawa Mitsunobu,,
+Hasegawa Seicho,Hasegawa Seicho,17482.0,Miyagawa Chôshun,1683.0,1753.0
+Toshimitsu,Toshimitsu,23940.0,Kubo Shunman,1757.0,1820.0
+Gyokusho Kawabata,Gyokusho Kawabata,10540.0,Kawabata Gyokushô,1842.0,1913.0
+Chinsai Rosetsu,Chinsai Rosetsu,56986.0,Nagasawa Rosetsu,1754.0,1799.0
+Chinsai Rosetsu,Chinsai Rosetsu,17711.0,Moriki Rosetsu,,
+Suzuki Kinsen,Suzuki Kinsen,9102.0,Fuyo,1749.0,1816.0
+Suzuki Kinsen,Suzuki Kinsen,35252.0,Suzuki Kiitsu,1796.0,1858.0
+Suzuki Kinsen,Suzuki Kinsen,36845.0,Suzuki Harunobu,1724.0,1770.0
+Suzuki Kinsen,Suzuki Kinsen,104511.0,Suzuki Rinshô,1732.0,1804.0
+Suzuki Kinsen,Suzuki Kinsen,112325.0,Osamu Suzuki,1926.0,2001.0
+Suzuki Kinsen,Suzuki Kinsen,115342.0,Yuri Suzuki,1980.0,
+Suzuki Kinsen,Suzuki Kinsen,37380.0,Kishosai Suzuki Yasunobu,,
+Suzuki Kinsen,Suzuki Kinsen,63092.0,Nanrei,1775.0,1844.0
+Choki,Choki,4737.0,Eishosai Choki,,
+Arai Kiyozaburo,Arai Kiyozaburo,75215.0,Jun-ichi Arai,1932.0,2017.0
+Ashiyuki,Ashiyuki,1161.0,Ashiyuki,,
+Konobu II,Konobu,,,,
+Toshinaka,Toshinaka,,,,
+Toshinobu,Toshinobu,46265.0,Okumura Toshinobu,,
+Toshinobu,Toshinobu,34385.0,Kikukawa Eizan,1787.0,1867.0
+Kiyonaga,Kiyonaga,35265.0,Torii Kiyonaga,1752.0,1815.0
+Shogetsu,Shogetsu,,,,
+Mishima Shoso,Mishima Shoso,17448.0,Shôsô Mishima,1852.0,
+Mishima Shoso,Mishima Shoso,47375.0,Kimiyo Mishima,1932.0,2024.0
+Mishima Shoso,Mishima Shoso,3616.0,Tani Bunchô,1763.0,1840.0
+Yamamoto Eishun,Yamamoto Eishun,7603.0,Kanô Eishun,1769.0,1816.0
+Yamamoto Eishun,Yamamoto Eishun,10693.0,Yamamoto Hakuho,,
+Yamamoto Eishun,Yamamoto Eishun,29347.0,Yamamoto Yoshinobu,,
+Yamamoto Eishun,Yamamoto Eishun,48999.0,Baiitsu Yamamoto,1783.0,1856.0
+Yamamoto Eishun,Yamamoto Eishun,60695.0,Yamamoto Kanae,1882.0,1946.0
+Yamamoto Eishun,Yamamoto Eishun,114619.0,Mugi Yamamoto,1988.0,
+Yamamoto Eishun,Yamamoto Eishun,115323.0,Kansuke Yamamoto,1914.0,1987.0
+Yamamoto Eishun,Yamamoto Eishun,9091.0,Tomikawa Fusanobu (Ginsetsu),,
+Yoshikane,Yoshikane,,,,
+Shinohara Kiyooki,Shinohara Kiyooki,,,,
+Shinsai Eisho,Shinsai Eisho,22656.0,Ryuryukyo Shinsai,1764.0,1820.0
+Shinsai Eisho,Shinsai Eisho,52275.0,Chokosai Eisho,,
+Shinsai Eisho,Shinsai Eisho,112854.0,Narazaki Eisho,1868.0,1939.0
+Shinsai Eisho,Shinsai Eisho,31492.0,Katsushika Hokusai,1760.0,1849.0
+Yoshifusa,Yoshifusa,,,,
+Kiyoshi Nakajima,Kiyoshi Nakajima,21325.0,Nakajima Raishô,1796.0,1871.0
+Kiyoshi Nakajima,Kiyoshi Nakajima,43873.0,Kiyoshi Morikawa,,
+Kiyoshi Nakajima,Kiyoshi Nakajima,31377.0,Hamada Kiyoshi,1937.0,
+Kiyoshi Nakajima,Kiyoshi Nakajima,31418.0,Hashimoto Kiyoshi,1930.0,
+Kiyoshi Nakajima,Kiyoshi Nakajima,31737.0,Kobayakawa Kiyoshi,1899.0,1948.0
+Kiyoshi Nakajima,Kiyoshi Nakajima,14032.0,Saito Kiyoshi,1907.0,1997.0
+Kiyoshi Nakajima,Kiyoshi Nakajima,34861.0,Hashiguchi Goyô,1881.0,1921.0
+Kiyoshi Nakajima,Kiyoshi Nakajima,32830.0,Tajima Hiroyuki,1911.0,1997.0
+Uemura Shoen,Uemura Shoen,32970.0,Uemura Shôen,1875.0,1949.0
+Uemura Shoen,Uemura Shoen,91595.0,Ikeda Shoen,1888.0,1917.0
+Uemura Shoen,Uemura Shoen,65261.0,Hashimoto Gahô,1835.0,1908.0
+Eijiro Kobayashi,Eijiro Kobayashi,104170.0,Kobayashi Ikuhide,,
+Eijiro Kobayashi,Eijiro Kobayashi,110324.0,Keiko Kobayashi,,
+Eijiro Kobayashi,Eijiro Kobayashi,31738.0,Kobayashi Kiyoko,1947.0,
+Eijiro Kobayashi,Eijiro Kobayashi,6814.0,Kobayashi Donge,1927.0,
+Eijiro Kobayashi,Eijiro Kobayashi,35262.0,Kobayashi Kiyochika,1847.0,1915.0
+Eijiro Kobayashi,Eijiro Kobayashi,116787.0,Kobayashi Keisei,,
+Ota Masamitsu,Ota Masamitsu,33960.0,Hanegawa Chincho,1679.0,1754.0
+Seiko Kawachi,Seiko Kawachi,116802.0,Kawachi Seiko,,
+Seiko Kawachi,Seiko Kawachi,23461.0,Soshosai Seiko,,
+Sadatora,Sadatora,,,,
+Kunimori II,Kunimori,,,,
+Kunitsuna,Kunitsuna,14480.0,Utagawa Kuniteru II (Kunitsuna II),1830.0,1874.0
+Shoso Mishima,Shoso Mishima,17448.0,Shôsô Mishima,1852.0,
+Shoso Mishima,Shoso Mishima,47375.0,Kimiyo Mishima,1932.0,2024.0
+Shoso Mishima,Shoso Mishima,3616.0,Tani Bunchô,1763.0,1840.0
+Matsuno Hideyo,Matsuno Hideyo,,,,
+Yasuo Matsunaga,Yasuo Matsunaga,13605.0,Yasuo Kazuki,1911.0,1974.0
+Yasuo Matsunaga,Yasuo Matsunaga,35356.0,Yasuo Kuniyoshi,1893.0,1953.0
+Isao Takahashi,Isao Takahashi,105721.0,Isao Hosoe,1942.0,
+Isao Takahashi,Isao Takahashi,25431.0,Takahashi Shinichi,1917.0,1986.0
+Isao Takahashi,Isao Takahashi,36870.0,Takahashi Rikio,1917.0,1998.0
+Isao Takahashi,Isao Takahashi,34943.0,Takahashi Hiroaki (Shotei),1871.0,1944.0
+Okumura Koichi,Okumura Koichi,46265.0,Okumura Toshinobu,,
+Okumura Koichi,Okumura Koichi,61758.0,Okumura Masanobu,1686.0,1764.0
+Okumura Koichi,Okumura Koichi,104213.0,Maeda Koichi,1936.0,
+Okumura Koichi,Okumura Koichi,22792.0,Sakamoto Koichi,1932.0,
+Okumura Koichi,Okumura Koichi,35313.0,Yoshimura Koichi,1818.0,1874.0
+Yamakawa Shuho,Yamakawa Shuho,91529.0,Yamakawa Shûhô,1898.0,1944.0
+Yamakawa Shuho,Yamakawa Shuho,32831.0,Takuan Boô,1573.0,1645.0
+Yoshimune Arai,Yoshimune Arai,12520.0,Utagawa Yoshimune,1817.0,1880.0
+Yoshimune Arai,Yoshimune Arai,75215.0,Jun-ichi Arai,1932.0,2017.0
+Yoshitoshi Mori,Yoshitoshi Mori,17707.0,Mori Yoshitoshi,1898.0,1992.0
+Yoshitoshi Mori,Yoshitoshi Mori,37401.0,Tsukioka Yoshitoshi,1839.0,1892.0
+Yoshitoshi Mori,Yoshitoshi Mori,77463.0,Mariko Mori,1967.0,
+Yoshitoshi Mori,Yoshitoshi Mori,113534.0,Mori Shunkei,,
+Yoshitoshi Mori,Yoshitoshi Mori,17708.0,Mori Yusen,,
+Yoshitoshi Mori,Yoshitoshi Mori,36751.0,Mori Sosen,1747.0,1821.0
+Yoshitoshi Mori,Yoshitoshi Mori,35832.0,Ippo Mori,1789.0,1871.0
+Yoshitoshi Mori,Yoshitoshi Mori,50586.0,Jacquelyn Ford Morie,,
+Yoshimi Okamoto,Yoshimi Okamoto,33200.0,Yoshimi Rogetsu,1808.0,1909.0
+Yoshimi Okamoto,Yoshimi Okamoto,32376.0,Okamoto Shogo,1920.0,2001.0
+Yoshimi Okamoto,Yoshimi Okamoto,41839.0,Taro Okamoto,1911.0,1996.0
+Yoshimi Okamoto,Yoshimi Okamoto,115623.0,"Taro Okamoto Museum of Art, Kawasaki",,
+Buncho,Buncho,3616.0,Tani Bunchô,1763.0,1840.0
+Buncho,Buncho,33802.0,Ippitsusai Buncho,1727.0,1796.0
+Yoshimune,Yoshimune,12520.0,Utagawa Yoshimune,1817.0,1880.0
+Yasuda Yukihiko,Yasuda Yukihiko,82079.0,Naotami Yasuda,1972.0,
+Yasuda Yukihiko,Yasuda Yukihiko,116803.0,Tajima Yukihiko,,
+Yasuda Yukihiko,Yasuda Yukihiko,89699.0,Katsukawa Shunjо̄,,1787.0
+Okumura Togyu,Okumura Togyu,46265.0,Okumura Toshinobu,,
+Okumura Togyu,Okumura Togyu,61758.0,Okumura Masanobu,1686.0,1764.0
+Nakao Yoshitaka,Nakao Yoshitaka,18963.0,Nakao Yoshitaka,1911.0,1994.0
+Aoyama Masaharu,Aoyama Masaharu,112851.0,Aoyama Masaharu,1893.0,1969.0
+Yoshiharu Kimura,Yoshiharu Kimura,114265.0,Utagawa Yoshiharu,1828.0,1888.0
+Yoshiharu Kimura,Yoshiharu Kimura,14298.0,Kimura Koro,1916.0,
+Yoshiharu Kimura,Yoshiharu Kimura,31716.0,Kimura Kosuke,1936.0,
+Shunsho,Shunsho,36681.0,Katsukawa Shunsho,1726.0,1792.0
+Shunsho,Shunsho,34971.0,Shunshosai Hokucho,,
+Shunsho,Shunsho,31492.0,Katsushika Hokusai,1760.0,1849.0
+Haneda Tomisaburo,Haneda Tomisaburo,,,,
+Hashimoto,Hashimoto,65261.0,Hashimoto Gahô,1835.0,1908.0
+Hashimoto,Hashimoto,65263.0,Hashimoto Kansetsu,1883.0,1945.0
+Hashimoto,Hashimoto,31418.0,Hashimoto Kiyoshi,1930.0,
+Hashimoto,Hashimoto,36079.0,Hashimoto Okiie,1899.0,1993.0
+Hashimoto,Hashimoto,103264.0,Hashimoto (Yoshu) Chikanobu,1838.0,1912.0
+Hashimoto,Hashimoto,14187.0,Hashimoto Koei (Ikeda Koei),1892.0,1956.0
+Hashimoto,Hashimoto,22718.0,Utagawa Sadahide,1807.0,1873.0
+Shuncho,Shuncho,36670.0,Katsukawa Shunchô,,
+Tokuriki Tomikichiro,Tokuriki Tomikichiro,112858.0,Tokuriki Tomikichiro,1902.0,2000.0
+Konobu,Konobu,,,,
+Kunikazu,Kunikazu,,,,
+Gihachiro Okuyama,Gihachiro Okuyama,,,,
+Toyokuni III/Kunisada and Hiroshige,Kunisada,61302.0,Utagawa Kunisada I (Toyokuni III),1786.0,1865.0
+Toyokuni III/Kunisada and Hiroshige,Kunisada,12042.0,"Utagawa Kunisada III (Kunimasa IV, Toyokuni V)",1848.0,1920.0
+Toyokuni III/Kunisada and Hiroshige,Kunisada,35352.0,"Utagawa Kunisada II (Kunimasa III, Toyokuni IV)",1823.0,1880.0
+Toyokuni III/Kunisada and Hiroshige,Hiroshige,11638.0,Hiroshige,,
+Toyokuni III/Kunisada and Hiroshige,Hiroshige,34946.0,Utagawa Hiroshige,1797.0,1858.0
+Toyokuni III/Kunisada and Hiroshige,Hiroshige,34947.0,Ichirusai Hiroshige,1832.0,
+Toyokuni III/Kunisada and Hiroshige,Hiroshige,66945.0,Utagawa Hiroshige III,1843.0,1894.0
+Toyokuni III/Kunisada and Hiroshige,Hiroshige,34950.0,Utagawa Hiroshige II (Shigenobu),1826.0,1869.0
+Koryusai,Koryusai,35327.0,Isoda Koryusai,1735.0,1790.0
+Tominobu,Tominobu,,,,
+Tobei Kamei,Tobei Kamei,36989.0,Mark Tobey,1890.0,1976.0
+Tobei Kamei,Tobei Kamei,114963.0,Miraku Kamei XV,1960.0,
+Sho Hayashi,Sho Hayashi,110832.0,Kidokoro Sho,1934.0,1988.0
+Sho Hayashi,Sho Hayashi,102433.0,Sichuan Provincial Museum,,
+Yosai,Yosai,113693.0,Yosai Nobukazu,1872.0,1944.0
+Yosai,Yosai,35347.0,Utagawa Kunihisa II,1832.0,1891.0
+Yosai,Yosai,9879.0,Yashima Gakutei,1786.0,1868.0
+Toyohiro,Toyohiro,37003.0,Utagawa Toyohiro,1773.0,1828.0
+Toyohiro,Toyohiro,34946.0,Utagawa Hiroshige,1797.0,1858.0
+Eiichi Kotozuka,Eiichi Kotozuka,112853.0,Kotozuka Eichi,1906.0,1982.0
+Eiichi Kotozuka,Eiichi Kotozuka,7555.0,Shibuya Eiichi,1928.0,2011.0
+Eiichi Kotozuka,Eiichi Kotozuka,32705.0,Eiichi Sakurai,1909.0,
+Clifton Karhu,Clifton Karhu,101568.0,Clifton Karhu,1927.0,2007.0
+Clifton Karhu,Clifton Karhu,43566.0,Clifton Monteith,1944.0,
+Clifton Karhu,Clifton Karhu,36037.0,Kenneth Noland,1924.0,2010.0
+Toshiaki,Toshiaki,,,,
+Toshimoto,Toshimoto,,,,
+Kyosai and Hiroshige III,Kyosai,13660.0,"Keisai, Kyôsai",,
+Kyosai and Hiroshige III,Kyosai,35361.0,Kawanabe Kyôsai,1831.0,1889.0
+Kyosai and Hiroshige III,Kyosai,34969.0,Totoya Hokkei,1780.0,1858.0
+Kyosai and Hiroshige III,Hiroshige,11638.0,Hiroshige,,
+Kyosai and Hiroshige III,Hiroshige,34946.0,Utagawa Hiroshige,1797.0,1858.0
+Kyosai and Hiroshige III,Hiroshige,34947.0,Ichirusai Hiroshige,1832.0,
+Kyosai and Hiroshige III,Hiroshige,66945.0,Utagawa Hiroshige III,1843.0,1894.0
+Kyosai and Hiroshige III,Hiroshige,34950.0,Utagawa Hiroshige II (Shigenobu),1826.0,1869.0
+Hitomi Renjo,Hitomi Renjo,,,,
+Miyagi Gengyo,Miyagi Gengyo,103265.0,Gengyo,1717.0,1880.0
+Miyagi Gengyo,Miyagi Gengyo,95359.0,Miyagi Museum of Art,,
+Hironobu,Hironobu,,,,
+Sadanobu I,Sadanobu,22731.0,Hasegawa Sadanobu,1809.0,1879.0
+Sadanobu I,Sadanobu,13317.0,Kagaku,,
+Odake Chikuha,Odake Chikuha,,,,
+Kuniharu,Kuniharu,60941.0,Utagawa Yoshimori,1830.0,1884.0
+Kazu Morita,Kazu Morita,23875.0,Shiryu Morita,1912.0,
+Kazu Morita,Kazu Morita,56986.0,Nagasawa Rosetsu,1754.0,1799.0
+Kazu Morita,Kazu Morita,34950.0,Utagawa Hiroshige II (Shigenobu),1826.0,1869.0
+Toshikage Osanai,Toshikage Osanai,,,,
+Tomioka Tessai,Tomioka Tessai,,,,
+Terumasa Tanaka,Terumasa Tanaka,58851.0,Tanaka Atsuko,1932.0,2005.0
+Terumasa Tanaka,Terumasa Tanaka,91583.0,Tanaka Honen,1887.0,
+Terumasa Tanaka,Terumasa Tanaka,105376.0,Chiyoko Tanaka,1941.0,
+Terumasa Tanaka,Terumasa Tanaka,115374.0,Ryuji  Tanaka,1927.0,2014.0
+Terumasa Tanaka,Terumasa Tanaka,32346.0,Tanaka Nikka,,1845.0
+Terumasa Tanaka,Terumasa Tanaka,32686.0,Tanaka Ryohei,1933.0,
+Terumasa Tanaka,Terumasa Tanaka,25480.0,Tanaka Shutei,1810.0,1858.0
+Terumasa Tanaka,Terumasa Tanaka,36880.0,Tanaka Masaki,1947.0,
+Motosugu Sugiyama,Motosugu Sugiyama,,,,
+Shigemasa,Shigemasa,102654.0,Higashida Shigemasa,1955.0,
+Shigemasa,Shigemasa,23776.0,Kitao Shigemasa,1739.0,1820.0
+Shigemasa,Shigemasa,66945.0,Utagawa Hiroshige III,1843.0,1894.0
+Tadashi Nakayama,Tadashi Nakayama,35953.0,Nakayama Tadashi,1927.0,
+Tadashi Nakayama,Tadashi Nakayama,12565.0,Iwasaka Tadashi,,
+Tadashi Nakayama,Tadashi Nakayama,116760.0,Nakayama Takasuke,,
+Tadashi Nakayama,Tadashi Nakayama,112573.0,Nakayama Francois-Masami,1898.0,1979.0
+Eisen Tomioka,Eisen Tomioka,4306.0,Charles Eisen,1720.0,1778.0
+Eisen Tomioka,Eisen Tomioka,34380.0,Keisai Eisen,1790.0,1848.0
+Eisen Tomioka,Eisen Tomioka,17840.0,Kano Motonobu,1476.0,1559.0
+Nobuchika,Nobuchika,,,,
+Toshimasa,Toshimasa,,,,
+"Kogyo, Tsukioka",Kogyo Tsukioka,26646.0,Tsukioka Kôgyo,1869.0,1927.0
+"Kogyo, Tsukioka",Kogyo Tsukioka,87007.0,Sakamaki Kogyo,,
+"Kogyo, Tsukioka",Kogyo Tsukioka,37401.0,Tsukioka Yoshitoshi,1839.0,1892.0
+"Kogyo, Tsukioka",Kogyo Tsukioka,57754.0,Tsukioka Settei,1710.0,1786.0
+"Kogyo, Tsukioka",Kogyo Tsukioka,110934.0,Tsukioka Gyokusei,1908.0,2009.0
+Yamada Shokei,Yamada Shokei,37371.0,Yamada Mitsuzo,1945.0,
+Yamada Shokei,Yamada Shokei,115146.0,Yamada Naosaburo,,
+Yamada Shokei,Yamada Shokei,14549.0,Endô Kyôzô,1897.0,1970.0
+Gakutei,Gakutei,9879.0,Yashima Gakutei,1786.0,1868.0
+Kiyoshige,Kiyoshige,35278.0,Torii Kiyoshige,,
+Watanabe Seitei,Watanabe Seitei,36666.0,Watanabe Shôtei,1851.0,1916.0
+Watanabe Seitei,Watanabe Seitei,63083.0,Watanabe Nangaku,1767.0,1813.0
+Watanabe Seitei,Watanabe Seitei,113278.0,Katsumi Watanabe,1941.0,2006.0
+Watanabe Seitei,Watanabe Seitei,28014.0,Sadao Watanabe,1913.0,1996.0
+Watanabe Seitei,Watanabe Seitei,36619.0,Watanabe Shozaburo,,
+Watanabe Seitei,Watanabe Seitei,23817.0,Watanabe Kyûma Shikô,1683.0,1755.0
+Watanabe Seitei,Watanabe Seitei,104656.0,S. Watanabe Color Print Co.,,
+Watanabe Seitei,Watanabe Seitei,113693.0,Yosai Nobukazu,1872.0,1944.0
+Takeuchi Seiho,Takeuchi Seiho,23459.0,Takeuchi Seiho,1864.0,1942.0
+Takeuchi Seiho,Takeuchi Seiho,35314.0,Takeuchi Koitsu,1838.0,1891.0
+Takeuchi Seiho,Takeuchi Seiho,12042.0,"Utagawa Kunisada III (Kunimasa IV, Toyokuni V)",1848.0,1920.0
+Hayakawa Shozan,Hayakawa Shozan,111052.0,Koikawa Shozan,1821.0,1907.0
+Hayakawa Shozan,Hayakawa Shozan,111344.0,Hayakawa Shōkosai III,1864.0,1922.0
+Hayakawa Shozan,Hayakawa Shozan,116945.0,Hayakawa Shokosai V,,
+Hayakawa Shozan,Hayakawa Shozan,25425.0,Katsushika Taito II,,
+Shunman,Shunman,104229.0,Kubota Shunman,,
+Shunman,Shunman,23940.0,Kubo Shunman,1757.0,1820.0
+Terasaki Kogyo,Terasaki Kogyo,87007.0,Sakamaki Kogyo,,
+Terasaki Kogyo,Terasaki Kogyo,26646.0,Tsukioka Kôgyo,1869.0,1927.0
+Kiyomine,Kiyomine,35272.0,Torii Kiyomitsu II (Kiyomine),1787.0,1868.0
+Tsuchida Bakusen,Tsuchida Bakusen,59323.0,Tsuchida Bakusen,1887.0,1936.0
+After Maruyama Okyo,Maruyama Okyo,35633.0,Maruyama Ôkyo,1733.0,1795.0
+After Maruyama Okyo,Maruyama Okyo,116753.0,Maruyama Hiroshi,,
+Yurimoto Keiko,Yurimoto Keiko,110324.0,Keiko Kobayashi,,
+Yurimoto Keiko,Yurimoto Keiko,31394.0,Keiko Hara,1942.0,
+Katharine Jowett,Katharine Jowett,40174.0,Katharine Kuh,1904.0,1994.0
+Katharine Jowett,Katharine Jowett,47466.0,Katharine Rattray,1907.0,1993.0
+Katharine Jowett,Katharine Jowett,34320.0,Katharine Dudley,1884.0,
+Katharine Jowett,Katharine Jowett,11562.0,Mary Katharine Ashbrook Hill,1843.0,1927.0
+Katharine Jowett,Katharine Jowett,20979.0,Katherine Pratt,1891.0,1978.0
+Katharine Jowett,Katharine Jowett,22755.0,Kay Sage,1898.0,1963.0
+Katharine Jowett,Katharine Jowett,33354.0,Ansel Adams,1902.0,1984.0
+Katharine Jowett,Katharine Jowett,36779.0,Evelyn Statsinger,1927.0,2016.0
+Kunichika and Ikkei,Kunichika,31767.0,Toyohara Kunichika,1835.0,1900.0
+Kunichika and Ikkei,Ikkei,,,,
+Kaigetsudo Dohan,Kaigetsudo Dohan,54717.0,Kaigetsudo Dohan,,
+Kaigetsudo Dohan,Kaigetsudo Dohan,44501.0,Kaigetsudo Anchi,,
+Kaigetsudo Dohan,Kaigetsudo Dohan,110895.0,Kaigetsudo Doshu,,
+Kaigetsudo Dohan,Kaigetsudo Dohan,54785.0,Doshin,,
+Kunimori,Kunimori,,,,
+Mitsuoki Tosa,Mitsuoki Tosa,26388.0,Tosa Mitsuoki,1617.0,1691.0
+Mitsuoki Tosa,Mitsuoki Tosa,2626.0,Tosa School,,
+Mitsuoki Tosa,Mitsuoki Tosa,26533.0,Tosa Mitsunari,1646.0,1710.0
+Mitsuoki Tosa,Mitsuoki Tosa,17472.0,"Mitsushige, Tosa",1496.0,1554.0
+Mitsuoki Tosa,Mitsuoki Tosa,36996.0,"Mitsusuke, Tosa",1675.0,1710.0
+Iwata Masami,Iwata Masami,112573.0,Nakayama Francois-Masami,1898.0,1979.0
+Ikuhide,Ikuhide,104170.0,Kobayashi Ikuhide,,
+Ono Chikkyo,Ono Chikkyo,19668.0,Ono Tadashige,1909.0,1990.0
+Ono Chikkyo,Ono Chikkyo,112859.0,Ono Bakufu,1888.0,1976.0
+Ono Chikkyo,Ono Chikkyo,115334.0,Yoko Ono,,
+Ryuu Shimazaki,Ryuu Shimazaki,,,,
+Sachi (or Yuki) Miyazawa,Sachi Miyazawa,46993.0,Circle of Giovanni Antonio da Pordenone,1474.0,1539.0
+Sachi (or Yuki) Miyazawa,Sachi Miyazawa,40994.0,Giovanni Antonio da Pordenone,1478.0,1539.0
+Okada Koichi,Okada Koichi,104213.0,Maeda Koichi,1936.0,
+Okada Koichi,Okada Koichi,22792.0,Sakamoto Koichi,1932.0,
+Okada Koichi,Okada Koichi,35313.0,Yoshimura Koichi,1818.0,1874.0
+Okada Koichi,Okada Koichi,112644.0,Okada Yoshio,1977.0,
+Okada Koichi,Okada Koichi,19591.0,Kenzô Okada,1902.0,1982.0
+Okada Koichi,Okada Koichi,116777.0,Okada Marie,,
+Okada Koichi,Okada Koichi,36879.0,Tamechika Reizei,1823.0,1864.0
+Eisho,Eisho,52275.0,Chokosai Eisho,,
+Eisho,Eisho,112854.0,Narazaki Eisho,1868.0,1939.0
+Yamanaka Kodo,Yamanaka Kodo,,,,
+Miyao Shigeo,Miyao Shigeo,62099.0,Shigeo Kubota,,
+Miyao Shigeo,Miyao Shigeo,116776.0,Risho Shigeo,,
+Kiyonobu,Kiyonobu,35275.0,Torii Kiyonobu I,1664.0,1729.0
+Kiyonobu,Kiyonobu,35276.0,Torii Kiyonobu II,1725.0,1761.0
+Gyoshu Hayami,Gyoshu Hayami,,,,
+Toyoharu,Toyoharu,37002.0,Utagawa Toyoharu,1735.0,1814.0
+Toyokuni III/Kunisada and Kunisada II,Kunisada,61302.0,Utagawa Kunisada I (Toyokuni III),1786.0,1865.0
+Toyokuni III/Kunisada and Kunisada II,Kunisada,12042.0,"Utagawa Kunisada III (Kunimasa IV, Toyokuni V)",1848.0,1920.0
+Toyokuni III/Kunisada and Kunisada II,Kunisada,35352.0,"Utagawa Kunisada II (Kunimasa III, Toyokuni IV)",1823.0,1880.0
+Toyokuni III/Kunisada and Kunisada II,Kunisada,61302.0,Utagawa Kunisada I (Toyokuni III),1786.0,1865.0
+Toyokuni III/Kunisada and Kunisada II,Kunisada,12042.0,"Utagawa Kunisada III (Kunimasa IV, Toyokuni V)",1848.0,1920.0
+Toyokuni III/Kunisada and Kunisada II,Kunisada,35352.0,"Utagawa Kunisada II (Kunimasa III, Toyokuni IV)",1823.0,1880.0
+Shunko,Shunko,112866.0,Shunko,,
+Shunko,Shunko,115103.0,Katsukawa Shunko,,
+Shunko,Shunko,23981.0,Katsukawa Shunsen (Shunko II),1762.0,1830.0
+Shunko,Shunko,57918.0,Katsukawa Shunkо̄,1743.0,1812.0
+Shigenobu I,Shigenobu,113206.0,Nishimura Shigenobu,,
+Shigenobu I,Shigenobu,23803.0,Hirose Shigenobu,,
+Shigenobu I,Shigenobu,23805.0,Kanô Shigenobu,,
+Shigenobu I,Shigenobu,23806.0,Tsunekawa Shigenobu,,
+Shigenobu I,Shigenobu,22657.0,Yanagawa Shigenobu I,1787.0,1832.0
+Shigenobu I,Shigenobu,29224.0,Yanagawa Shigenobu II,1820.0,1859.0
+Shigenobu I,Shigenobu,34950.0,Utagawa Hiroshige II (Shigenobu),1826.0,1869.0
+Shigenobu I,Shigenobu,26531.0,Ishikawa Toyonobu,1711.0,1785.0
+Kuniteru I,Kuniteru,14480.0,Utagawa Kuniteru II (Kunitsuna II),1830.0,1874.0
+Shusei,Shusei,,,,
+Kunimaru,Kunimaru,14451.0,Utagawa Kunimaru,1794.0,1829.0
+"Masanobu, Okumura",Masanobu Okumura,61758.0,Okumura Masanobu,1686.0,1764.0
+"Masanobu, Okumura",Masanobu Okumura,16511.0,Masanobu,,
+"Masanobu, Okumura",Masanobu Okumura,46265.0,Okumura Toshinobu,,
+"Masanobu, Okumura",Masanobu Okumura,26803.0,Ueda Masanobu,,
+"Masanobu, Okumura",Masanobu Okumura,61757.0,Masanobu Kano,1434.0,1530.0
+"Masanobu, Okumura",Masanobu Okumura,61760.0,Kitao Masanobu,1761.0,1816.0
+"Masanobu, Okumura",Masanobu Okumura,57754.0,Tsukioka Settei,1710.0,1786.0
+Ikeda Terukata,Ikeda Terukata,91593.0,Ikeda Terukata,1883.0,1921.0
+Ikeda Terukata,Ikeda Terukata,91595.0,Ikeda Shoen,1888.0,1917.0
+Ikeda Terukata,Ikeda Terukata,105983.0,Ikeda Keisen,1863.0,1932.0
+Ikeda Terukata,Ikeda Terukata,35666.0,Ikeda Masuo,1934.0,1997.0
+Ikeda Terukata,Ikeda Terukata,116128.0,Tatsuo Ikeda,1928.0,2020.0
+Ikeda Terukata,Ikeda Terukata,14187.0,Hashimoto Koei (Ikeda Koei),1892.0,1956.0
+Ikeda Terukata,Ikeda Terukata,34380.0,Keisai Eisen,1790.0,1848.0
+Ide Gakusui,Ide Gakusui,111128.0,Ide Gakusui,1899.0,1982.0
+Ide Gakusui,Ide Gakusui,47652.0,"Institute of Design (Chicago, Ill.)",,
+Ide Gakusui,Ide Gakusui,37103.0,Ludwig Mies van der Rohe,1886.0,1969.0
+Ide Gakusui,Ide Gakusui,111196.0,Charles Harrison,1931.0,2018.0
+Ide Gakusui,Ide Gakusui,32803.0,Louis H. Sullivan,1856.0,1924.0
+Ide Gakusui,Ide Gakusui,21655.0,Mary Reynolds,1891.0,1950.0
+Ide Gakusui,Ide Gakusui,33420.0,Tadao Ando,1941.0,
+Ide Gakusui,Ide Gakusui,44242.0,Bruce Goff,1904.0,1982.0
+Hokuei,Hokuei,11815.0,Shunbaisai Hokuei,,
+Takeji Asano,Takeji Asano,,,,
+Shucho,Shucho,36669.0,Tamagawa Shûchô,,
+Hokuju,Hokuju,119470.0,Hokuju,,
+Hokuju,Hokuju,34972.0,Shotei Hokuju,,
+Hokuju,Hokuju,119421.0,Shunshosai Hokuju,,
+Hiroshige II and Toyokuni III/Kunisada,Hiroshige,11638.0,Hiroshige,,
+Hiroshige II and Toyokuni III/Kunisada,Hiroshige,34946.0,Utagawa Hiroshige,1797.0,1858.0
+Hiroshige II and Toyokuni III/Kunisada,Hiroshige,34947.0,Ichirusai Hiroshige,1832.0,
+Hiroshige II and Toyokuni III/Kunisada,Hiroshige,66945.0,Utagawa Hiroshige III,1843.0,1894.0
+Hiroshige II and Toyokuni III/Kunisada,Hiroshige,34950.0,Utagawa Hiroshige II (Shigenobu),1826.0,1869.0
+Hiroshige II and Toyokuni III/Kunisada,Kunisada,61302.0,Utagawa Kunisada I (Toyokuni III),1786.0,1865.0
+Hiroshige II and Toyokuni III/Kunisada,Kunisada,12042.0,"Utagawa Kunisada III (Kunimasa IV, Toyokuni V)",1848.0,1920.0
+Hiroshige II and Toyokuni III/Kunisada,Kunisada,35352.0,"Utagawa Kunisada II (Kunimasa III, Toyokuni IV)",1823.0,1880.0
+Sadahiro II,Sadahiro,,,,
+Yoshioka Kotaro,Yoshioka Kotaro,105112.0,Tokujin Yoshioka,1967.0,
+Yoshioka Kotaro,Yoshioka Kotaro,116778.0,Yoshioka Hiroaki,,
+Yoshioka Kotaro,Yoshioka Kotaro,37401.0,Tsukioka Yoshitoshi,1839.0,1892.0
+Yamaguchi Hoshun,Yamaguchi Hoshun,60691.0,Katsuhiro Yamaguchi,1928.0,2018.0
+Yamaguchi Hoshun,Yamaguchi Hoshun,111086.0,Yamaguchi Ryuun,1940.0,
+Yamaguchi Hoshun,Yamaguchi Hoshun,113164.0,Bidou Yamaguchi,1970.0,
+Yamaguchi Hoshun,Yamaguchi Hoshun,25263.0,Yamaguchi Susumu,1897.0,1983.0
+Yamaguchi Hoshun,Yamaguchi Hoshun,29187.0,Yamaguchi Gen,1896.0,1976.0
+Yamaguchi Hoshun,Yamaguchi Hoshun,116765.0,Yamaguchi Hirokazu,,
+Yamaguchi Hoshun,Yamaguchi Hoshun,37373.0,Hisayoshi Yamaguchi (Hanga No Ie),,
+Yamaguchi Hoshun,Yamaguchi Hoshun,106474.0,Yamaguchi Prefectural Museum of Art,,
+Eiko,Eiko,22938.0,"Iseya Sanjiro, Eiko Do",,
+Chikanobu and Kunichika,Chikanobu,103264.0,Hashimoto (Yoshu) Chikanobu,1838.0,1912.0
+Chikanobu and Kunichika,Kunichika,31767.0,Toyohara Kunichika,1835.0,1900.0
+Sadafusa,Sadafusa,,,,
+S. Suzuki,S. Suzuki,104511.0,Suzuki Rinshô,1732.0,1804.0
+S. Suzuki,S. Suzuki,112325.0,Osamu Suzuki,1926.0,2001.0
+S. Suzuki,S. Suzuki,115342.0,Yuri Suzuki,1980.0,
+S. Suzuki,S. Suzuki,9102.0,Fuyo,1749.0,1816.0
+S. Suzuki,S. Suzuki,36845.0,Suzuki Harunobu,1724.0,1770.0
+S. Suzuki,S. Suzuki,35252.0,Suzuki Kiitsu,1796.0,1858.0
+S. Suzuki,S. Suzuki,37380.0,Kishosai Suzuki Yasunobu,,
+S. Suzuki,S. Suzuki,72849.0,S A,,
+Ono Shigeyuki,Ono Shigeyuki,112859.0,Ono Bakufu,1888.0,1976.0
+Ono Shigeyuki,Ono Shigeyuki,115334.0,Yoko Ono,,
+Ono Shigeyuki,Ono Shigeyuki,19668.0,Ono Tadashige,1909.0,1990.0
+Osai Baiji,Osai Baiji,103946.0,Kong Baiji,1932.0,
+Ryushi,Ryushi,,,,
+Odake Kunikazu,Odake Kunikazu,,,,
+Matsuno Sofu,Matsuno Sofu,,,,
+Moromasa,Moromasa,35837.0,Furuyama Moromasa,1712.0,1772.0
+Ashihiro,Ashihiro,,,,
+Ito Seisai,Ito Seisai,12547.0,Ito Ben'o,1917.0,1992.0
+Ito Seisai,Ito Seisai,35077.0,Miyoko Ito,1918.0,1983.0
+Ito Seisai,Ito Seisai,35098.0,Ito Jakuchu,1716.0,1800.0
+Ito Seisai,Ito Seisai,36653.0,Ito Shinsui,1898.0,1972.0
+Ito Seisai,Ito Seisai,73383.0,Toyo Ito,1941.0,
+Ito Seisai,Ito Seisai,76731.0,Sekisui Ito,1941.0,
+Ito Seisai,Ito Seisai,112852.0,Ito Takashi,1894.0,1982.0
+Ito Seisai,Ito Seisai,36779.0,Evelyn Statsinger,1927.0,2016.0
+Nishijima,Nishijima,,,,
+Yoshitoshi and Hiroshige III,Yoshitoshi,37401.0,Tsukioka Yoshitoshi,1839.0,1892.0
+Yoshitoshi and Hiroshige III,Yoshitoshi,17707.0,Mori Yoshitoshi,1898.0,1992.0
+Yoshitoshi and Hiroshige III,Hiroshige,11638.0,Hiroshige,,
+Yoshitoshi and Hiroshige III,Hiroshige,34946.0,Utagawa Hiroshige,1797.0,1858.0
+Yoshitoshi and Hiroshige III,Hiroshige,34947.0,Ichirusai Hiroshige,1832.0,
+Yoshitoshi and Hiroshige III,Hiroshige,66945.0,Utagawa Hiroshige III,1843.0,1894.0
+Yoshitoshi and Hiroshige III,Hiroshige,34950.0,Utagawa Hiroshige II (Shigenobu),1826.0,1869.0
+Masao Yoshida,Masao Yoshida,78337.0,Maeda Masao,1904.0,1974.0
+Masao Yoshida,Masao Yoshida,37392.0,Yoshida Chizuko,1924.0,
+Masao Yoshida,Masao Yoshida,37393.0,Yoshida Hiroshi,1876.0,1950.0
+Masao Yoshida,Masao Yoshida,37394.0,Yoshida Hodaka,1926.0,1995.0
+Masao Yoshida,Masao Yoshida,87587.0,Yoshida Hiroshi,1876.0,1950.0
+Masao Yoshida,Masao Yoshida,101578.0,Yoshida Katsuro,1943.0,
+Masao Yoshida,Masao Yoshida,104923.0,Donald Yoshida,,
+Masao Yoshida,Masao Yoshida,111049.0,Yoshida Hambei,,
+Masanobu,Masanobu,16511.0,Masanobu,,
+Masanobu,Masanobu,61757.0,Masanobu Kano,1434.0,1530.0
+Masanobu,Masanobu,61758.0,Okumura Masanobu,1686.0,1764.0
+Masanobu,Masanobu,61760.0,Kitao Masanobu,1761.0,1816.0
+Masanobu,Masanobu,26803.0,Ueda Masanobu,,
+Masanobu,Masanobu,57754.0,Tsukioka Settei,1710.0,1786.0
+Tatsumi Shimura,Tatsumi Shimura,,,,
+Takidaira Jiro,Takidaira Jiro,58812.0,Jiro Takamatsu,1936.0,
+Takidaira Jiro,Takidaira Jiro,60935.0,Jirô Yoshihara,1905.0,1972.0
+Takidaira Jiro,Takidaira Jiro,103024.0,Ôkura Jirô,1942.0,
+Hirokage,Hirokage,,,,
+Harushige,Harushige,35315.0,Shiba Kokan,1747.0,1818.0
+Hashimoto Meiji,Hashimoto Meiji,65261.0,Hashimoto Gahô,1835.0,1908.0
+Hashimoto Meiji,Hashimoto Meiji,65263.0,Hashimoto Kansetsu,1883.0,1945.0
+Hashimoto Meiji,Hashimoto Meiji,31418.0,Hashimoto Kiyoshi,1930.0,
+Hashimoto Meiji,Hashimoto Meiji,36079.0,Hashimoto Okiie,1899.0,1993.0
+Hashimoto Meiji,Hashimoto Meiji,103264.0,Hashimoto (Yoshu) Chikanobu,1838.0,1912.0
+Hashimoto Meiji,Hashimoto Meiji,14187.0,Hashimoto Koei (Ikeda Koei),1892.0,1956.0
+Hashimoto Meiji,Hashimoto Meiji,22718.0,Utagawa Sadahide,1807.0,1873.0
+Hicho,Hicho,,,,
+Hirano Hakuho,Hirano Hakuho,10693.0,Yamamoto Hakuho,,
+Hirezaki Eiho,Hirezaki Eiho,,,,
+Kunimasa,Kunimasa,35349.0,Utagawa Kunimasa,1773.0,1810.0
+Kunimasa,Kunimasa,12042.0,"Utagawa Kunisada III (Kunimasa IV, Toyokuni V)",1848.0,1920.0
+Kunimasa,Kunimasa,35352.0,"Utagawa Kunisada II (Kunimasa III, Toyokuni IV)",1823.0,1880.0
+Shunsen,Shunsen,36674.0,Katsukawa Shunsen,,
+Shunsen,Shunsen,36675.0,Natori Shunsen,1886.0,1960.0
+Shunsen,Shunsen,23981.0,Katsukawa Shunsen (Shunko II),1762.0,1830.0
+Kayo Yamaguchi,Kayo Yamaguchi,25263.0,Yamaguchi Susumu,1897.0,1983.0
+Kayo Yamaguchi,Kayo Yamaguchi,29187.0,Yamaguchi Gen,1896.0,1976.0
+Kayo Yamaguchi,Kayo Yamaguchi,60691.0,Katsuhiro Yamaguchi,1928.0,2018.0
+Kayo Yamaguchi,Kayo Yamaguchi,111086.0,Yamaguchi Ryuun,1940.0,
+Kayo Yamaguchi,Kayo Yamaguchi,113164.0,Bidou Yamaguchi,1970.0,
+Kayo Yamaguchi,Kayo Yamaguchi,116765.0,Yamaguchi Hirokazu,,
+Kayo Yamaguchi,Kayo Yamaguchi,37373.0,Hisayoshi Yamaguchi (Hanga No Ie),,
+Kayo Yamaguchi,Kayo Yamaguchi,106474.0,Yamaguchi Prefectural Museum of Art,,
+Kunifuki,Kunifuki,,,,
+Shunzan,Shunzan,24033.0,Katsukawa Shunzan,,
+Kuniteru,Kuniteru,14480.0,Utagawa Kuniteru II (Kunitsuna II),1830.0,1874.0
+T. Kamimura,T. Kamimura,76663.0,T. T.,,
+T. Kamimura,T. Kamimura,11924.0,T. Holmes,,
+T. Kamimura,T. Kamimura,17602.0,T. Moon,,
+T. Kamimura,T. Kamimura,32926.0,T. Thiermay,,
+T. Kamimura,T. Kamimura,41062.0,T. Wheeler,,
+T. Kamimura,T. Kamimura,41264.0,T. Esschen,,
+T. Kamimura,T. Kamimura,113645.0,E. T.,,
+T. Kamimura,T. Kamimura,5243.0,R. T. Cooper,,
+Makoto Kobayashi,Makoto Kobayashi,99065.0,Makoto Yabe,1947.0,
+Makoto Kobayashi,Makoto Kobayashi,32397.0,Ouchi Makoto,1926.0,1989.0
+Makoto Kobayashi,Makoto Kobayashi,120647.0,Makoto Ofune,1977.0,
+Makoto Kobayashi,Makoto Kobayashi,104170.0,Kobayashi Ikuhide,,
+Makoto Kobayashi,Makoto Kobayashi,110324.0,Keiko Kobayashi,,
+Makoto Kobayashi,Makoto Kobayashi,31738.0,Kobayashi Kiyoko,1947.0,
+Makoto Kobayashi,Makoto Kobayashi,6814.0,Kobayashi Donge,1927.0,
+Makoto Kobayashi,Makoto Kobayashi,35262.0,Kobayashi Kiyochika,1847.0,1915.0
+Shien,Shien,36670.0,Katsukawa Shunchô,,
+Shien,Shien,35252.0,Suzuki Kiitsu,1796.0,1858.0
+Sencho,Sencho,,,,
+Ichirentei Kansai,Ichirentei Kansai,,,,
+Hyakki,Hyakki,104167.0,Komatsuya Hyakki,1720.0,1793.0
+Ikezumi Kiyoshi,Ikezumi Kiyoshi,43873.0,Kiyoshi Morikawa,,
+Ikezumi Kiyoshi,Ikezumi Kiyoshi,31377.0,Hamada Kiyoshi,1937.0,
+Ikezumi Kiyoshi,Ikezumi Kiyoshi,31418.0,Hashimoto Kiyoshi,1930.0,
+Ikezumi Kiyoshi,Ikezumi Kiyoshi,31737.0,Kobayakawa Kiyoshi,1899.0,1948.0
+Ikezumi Kiyoshi,Ikezumi Kiyoshi,14032.0,Saito Kiyoshi,1907.0,1997.0
+Ikezumi Kiyoshi,Ikezumi Kiyoshi,34861.0,Hashiguchi Goyô,1881.0,1921.0
+Ikezumi Kiyoshi,Ikezumi Kiyoshi,32830.0,Tajima Hiroyuki,1911.0,1997.0
+Iku Nagai,Iku Nagai,32830.0,Tajima Hiroyuki,1911.0,1997.0
+Ichiyosai,Ichiyosai,26428.0,Utagawa Toyokuni I,1769.0,1825.0
+Ichiyosai,Ichiyosai,35352.0,"Utagawa Kunisada II (Kunimasa III, Toyokuni IV)",1823.0,1880.0
+Ikeda Shoen,Ikeda Shoen,91595.0,Ikeda Shoen,1888.0,1917.0
+Ikeda Shoen,Ikeda Shoen,32970.0,Uemura Shôen,1875.0,1949.0
+Ikeda Shoen,Ikeda Shoen,91593.0,Ikeda Terukata,1883.0,1921.0
+Ikeda Shoen,Ikeda Shoen,105983.0,Ikeda Keisen,1863.0,1932.0
+Ikeda Shoen,Ikeda Shoen,35666.0,Ikeda Masuo,1934.0,1997.0
+Ikeda Shoen,Ikeda Shoen,116128.0,Tatsuo Ikeda,1928.0,2020.0
+Ikeda Shoen,Ikeda Shoen,14187.0,Hashimoto Koei (Ikeda Koei),1892.0,1956.0
+Ikeda Shoen,Ikeda Shoen,65261.0,Hashimoto Gahô,1835.0,1908.0
+Shiko,Shiko,23818.0,Shikô Shikô,,
+Shiko,Shiko,35935.0,Munakata Shikô,1903.0,1975.0
+Shiko,Shiko,104228.0,Momokawa Shikô,,
+Shiko,Shiko,23817.0,Watanabe Kyûma Shikô,1683.0,1755.0
+Shiko,Shiko,23823.0,Shikô Momokawa II,,
+Shiko,Shiko,4737.0,Eishosai Choki,,
+Shiko,Shiko,35832.0,Ippo Mori,1789.0,1871.0
+Shigeru Kimura,Shigeru Kimura,31716.0,Kimura Kosuke,1936.0,
+Shigeru Kimura,Shigeru Kimura,14298.0,Kimura Koro,1916.0,
+Shigeru Kimura,Shigeru Kimura,99129.0,Shigeru Ban,1957.0,
+Shigeru Kimura,Shigeru Kimura,101576.0,Taniguchi Shigeru,1948.0,
+Shigeru Kimura,Shigeru Kimura,11139.0,Hatsuyama Shigeru,1897.0,1973.0
+Shigeru Kimura,Shigeru Kimura,116796.0,Kuriyama Shigeru,,
+Shigenaga,Shigenaga,36643.0,Nishimura Shigenaga,1697.0,1756.0
+Shigeharu,Shigeharu,,,,
+"Shogetsu, Kojima",Shogetsu Kojima,,,,
+Shinichi Takahashi,Shinichi Takahashi,25431.0,Takahashi Shinichi,1917.0,1986.0
+Shinichi Takahashi,Shinichi Takahashi,36870.0,Takahashi Rikio,1917.0,1998.0
+Shinichi Takahashi,Shinichi Takahashi,34943.0,Takahashi Hiroaki (Shotei),1871.0,1944.0
+Toyomasa,Toyomasa,12519.0,Ishikawa Toyomasa,,
+Toyokuni III/Kunisada I,Kunisada,61302.0,Utagawa Kunisada I (Toyokuni III),1786.0,1865.0
+Toyokuni III/Kunisada I,Kunisada,12042.0,"Utagawa Kunisada III (Kunimasa IV, Toyokuni V)",1848.0,1920.0
+Toyokuni III/Kunisada I,Kunisada,35352.0,"Utagawa Kunisada II (Kunimasa III, Toyokuni IV)",1823.0,1880.0
+Toshishide,Toshishide,,,,
+"Toshinobu, Yamazaki",Toshinobu Yamazaki,46265.0,Okumura Toshinobu,,
+"Toshinobu, Yamazaki",Toshinobu Yamazaki,60702.0,Yamazaki Tsuruko,1929.0,
+"Toshinobu, Yamazaki",Toshinobu Yamazaki,34385.0,Kikukawa Eizan,1787.0,1867.0
+Toshi Kangyo,Toshi Kangyo,36997.0,Yoshida Toshi,1911.0,1995.0
+Tosa Mitsuoki,Tosa Mitsuoki,26388.0,Tosa Mitsuoki,1617.0,1691.0
+Tosa Mitsuoki,Tosa Mitsuoki,2626.0,Tosa School,,
+Tosa Mitsuoki,Tosa Mitsuoki,26533.0,Tosa Mitsunari,1646.0,1710.0
+Tosa Mitsuoki,Tosa Mitsuoki,17472.0,"Mitsushige, Tosa",1496.0,1554.0
+Tosa Mitsuoki,Tosa Mitsuoki,36996.0,"Mitsusuke, Tosa",1675.0,1710.0
+Eisui,Eisui,34384.0,Ichirakutei Eisui,,
+Gyokuseri,Gyokuseri,,,,
+Kangetsu,Kangetsu,,,,
+Koizumi Kishio,Koizumi Kishio,14229.0,Koizumi Kishio,1893.0,1945.0
+Koikawa Harumasa (Banki),Koikawa Harumasa,111052.0,Koikawa Shozan,1821.0,1907.0
+Koikawa Harumasa (Banki),Koikawa Harumasa,113858.0,Kitagawa Utamaro II,1789.0,1830.0
+Koisumi Kisio,Koisumi Kisio,,,,
+Junichi Nakahara,Junichi Nakahara,90437.0,Junichi Itahashi,,
+Junichi Nakahara,Junichi Nakahara,75215.0,Jun-ichi Arai,1932.0,2017.0
+Kiyohiro,Kiyohiro,35264.0,Torii Kiyohiro,,
+Tsuyanaga,Tsuyanaga,,,,
+Kiyo. Y,Kiyo. Y,88411.0,Y. C. Wong,,
+Kiyo. Y,Kiyo. Y,26695.0,C. Y. Turner,,
+Kiyo. Y,Kiyo. Y,40677.0,Eugenio Lucas y Padilla,1824.0,1870.0
+Kiyo. Y,Kiyo. Y,40734.0,Luis Paret y Alcázar,1746.0,1799.0
+Kiyo. Y,Kiyo. Y,41876.0,Mariano Fortuny y Marsal,1838.0,1874.0
+Kiyo. Y,Kiyo. Y,42082.0,Joaquin Agrasot y Juan,1826.0,1929.0
+Kiyo. Y,Kiyo. Y,43970.0,Joachin y Miro Sunyer,1875.0,1958.0
+Kiyo. Y,Kiyo. Y,51708.0,Mariano Fortuny y Madrazo,1871.0,1949.0
+Various,Various,43820.0,Jindřich Štreit,1946.0,
+Various,Various,107078.0,Dayanita Singh,1961.0,
+Various,Various,46371.0,School of Rembrandt van Rijn,1606.0,1669.0
+Various,Various,36062.0,Georgia O'Keeffe,1887.0,1986.0
+Various,Various,117710.0,Yeesookyung,,
+Various,Various,68377.0,Magdalene Odundo,1950.0,
+Various,Various,17549.0,Piet Mondrian,1872.0,1944.0
+Various,Various,53221.0,Mikki Ferrill,1937.0,
+Utagawa Shigekiyo,Utagawa Shigekiyo,37396.0,Utagawa Yoshikazu,,
+Utagawa Shigekiyo,Utagawa Shigekiyo,37400.0,Utagawa Yoshitora,,
+Utagawa Shigekiyo,Utagawa Shigekiyo,42734.0,"Kunitoshi, Utagawa",,
+Utagawa Shigekiyo,Utagawa Shigekiyo,43360.0,Utagawa School,,
+Utagawa Shigekiyo,Utagawa Shigekiyo,60941.0,Utagawa Yoshimori,1830.0,1884.0
+Utagawa Shigekiyo,Utagawa Shigekiyo,87505.0,Utagawa Kunisato,,
+Utagawa Shigekiyo,Utagawa Shigekiyo,103267.0,Utagawa Kokunimasa,1874.0,1944.0
+Utagawa Shigekiyo,Utagawa Shigekiyo,104265.0,Utagawa Yoshifuji,1828.0,1887.0
+Uemura Shoko,Uemura Shoko,32970.0,Uemura Shôen,1875.0,1949.0
+Kogawa Hosai Mitsukata,Kogawa Hosai Mitsukata,112871.0,Hosai Shugetsu,,
+Kogawa Hosai Mitsukata,Kogawa Hosai Mitsukata,12042.0,"Utagawa Kunisada III (Kunimasa IV, Toyokuni V)",1848.0,1920.0
+Kiyotsune,Kiyotsune,35281.0,Torii Kiyotsune,,
+Kobayakawa Kokei,Kobayakawa Kokei,26802.0,Ueda Kôkei,,1860.0
+Kobayakawa Kokei,Kobayakawa Kokei,31737.0,Kobayakawa Kiyoshi,1899.0,1948.0
+Kiyotomo,Kiyotomo,35279.0,Torii Kiyotomo,,
+Kiyomitsu,Kiyomitsu,35271.0,Komatsuken Kiyomitsu,,
+Kiyomitsu,Kiyomitsu,26368.0,Torii Kiyomitsu I,1735.0,1785.0
+Kiyomitsu,Kiyomitsu,35272.0,Torii Kiyomitsu II (Kiyomine),1787.0,1868.0
+Asaka Manjiro,Asaka Manjiro,,,,
+Edo era artists (not read),Edo era artists,37838.0,Edo,,
+Edo era artists (not read),Edo era artists,112963.0,Edo-Tokyo Museum,,
+Edo era artists (not read),Edo era artists,832.0,Unknown artist,1401.0,1500.0
+Edo era artists (not read),Edo era artists,833.0,Unknown artist,1401.0,1500.0
+Edo era artists (not read),Edo era artists,838.0,Unknown artist,1501.0,1600.0
+Edo era artists (not read),Edo era artists,845.0,Unknown artist,1601.0,1700.0
+Edo era artists (not read),Edo era artists,847.0,Unknown artist,1601.0,1700.0
+Edo era artists (not read),Edo era artists,857.0,Unknown artist,1701.0,1800.0
+Willy Seiler,Willy Seiler,54719.0,Willie Doherty,1959.0,
+Willy Seiler,Willy Seiler,111110.0,Wesley Willis,1963.0,2003.0
+Willy Seiler,Willy Seiler,113438.0,Gale & Willis,,
+Willy Seiler,Willy Seiler,33551.0,Willi Baumeister,1889.0,1955.0
+Willy Seiler,Willy Seiler,9415.0,Willi Geiger,1878.0,1971.0
+Willy Seiler,Willy Seiler,12697.0,Willi Jaeckel,1888.0,1944.0
+Willy Seiler,Willy Seiler,117105.0,Willy Ronis,,
+Willy Seiler,Willy Seiler,44761.0,Willie Robert Middlebrook,1957.0,2012.0
+Chikuyo Hasegawa,Chikuyo Hasegawa,58342.0,Hasegawa Sôya,,
+Chikuyo Hasegawa,Chikuyo Hasegawa,22731.0,Hasegawa Sadanobu,1809.0,1879.0
+Chikuyo Hasegawa,Chikuyo Hasegawa,11092.0,Hasegawa Tojyu,,
+Chikuyo Hasegawa,Chikuyo Hasegawa,35796.0,Hasegawa Mitsunobu,,
+Chikuyo Hasegawa,Chikuyo Hasegawa,17482.0,Miyagawa Chôshun,1683.0,1753.0
+Yoshiume,Yoshiume,,,,
+Yoshitsuna,Yoshitsuna,,,,
+Yuichi Osuga,Yuichi Osuga,119005.0,"Yuichi ""Eugene"" Idaka",,
+Zuigetsu Ikeda,Zuigetsu Ikeda,91593.0,Ikeda Terukata,1883.0,1921.0
+Zuigetsu Ikeda,Zuigetsu Ikeda,91595.0,Ikeda Shoen,1888.0,1917.0
+Zuigetsu Ikeda,Zuigetsu Ikeda,105983.0,Ikeda Keisen,1863.0,1932.0
+Zuigetsu Ikeda,Zuigetsu Ikeda,35666.0,Ikeda Masuo,1934.0,1997.0
+Zuigetsu Ikeda,Zuigetsu Ikeda,116128.0,Tatsuo Ikeda,1928.0,2020.0
+Zuigetsu Ikeda,Zuigetsu Ikeda,14187.0,Hashimoto Koei (Ikeda Koei),1892.0,1956.0
+Zuigetsu Ikeda,Zuigetsu Ikeda,34380.0,Keisai Eisen,1790.0,1848.0
